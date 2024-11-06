@@ -212,6 +212,14 @@ p {
   margin-bottom: 0;
   font-weight: 500;
 }
+
+.certificate-title {
+  color: #3F4650;
+  font-size: 16px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-weight: 500;
+}
 .main-wrapper .time {
   position: absolute;
   right: 0;
@@ -230,6 +238,7 @@ p {
   text-decoration: underline;
   color: #f47c03;
 }
+
 .main-wrapper .projects-section .intro {
   margin-bottom: 30px;
 }
