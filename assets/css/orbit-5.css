@@ -227,12 +227,18 @@ p {
   font-weight: 400;
   margin-top: 0;
   margin-bottom: 5px;
+  text-decoration: underline;
+  color: #f47c03;
 }
 .main-wrapper .projects-section .intro {
   margin-bottom: 30px;
 }
 .main-wrapper .projects-section .item {
-  margin-bottom: 15px;
+  margin-top: 20px;
+}
+
+.main-wrapper .projects-section .item img{
+  margin-top: 20px;
 }
 
 .skillset .item {
